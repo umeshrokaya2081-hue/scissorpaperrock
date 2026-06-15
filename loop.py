@@ -1,1 +1,0 @@
-#initilization , condition , incrementment decrement 
